@@ -1,0 +1,45 @@
+.font {
+	font-size:30px;
+}
+#header {
+	color: black;
+}
+#movie {
+	
+	font-family: "HelveticaNeue-Light";
+	font-size: 30px;
+	
+}
+#book {
+	
+	font-family: "HelveticaNeue-Light";
+	font-size: 30px;
+	
+}
+#music {
+	
+	font-family: "HelveticaNeue-Light";
+	font-size: 30px;
+}
+#travel {
+	
+	font-family: "HelveticaNeue-Light";
+	font-size: 30px;
+	
+}
+#pokemon {
+	font-family: "HelveticaNeue-Light";
+	font-size: 30px;
+}
+td {
+	color: white;
+}
+#resize {
+	height:300px;
+	width:400px;
+	color: orange;
+	font-size: 30px;
+}
+#right{
+	float:right;
+}
